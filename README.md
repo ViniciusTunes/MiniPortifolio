@@ -12,11 +12,11 @@
    </ul>
 
 
-![Screen](https://cdn.discordapp.com/attachments/1129425322685767680/1143194336775905431/image.png)
+![Screen](https://cdn.discordapp.com/attachments/1129425322685767680/1143912742437257356/image.png)
 
 <h2>Domínio para Acesso:</h2>
 <ul>
-<li> https://jogo-do-numero-secreto-delta.vercel.app/</li>
+<li> https://jogo-do-numero-secreto-delta.vercel.app/](https://mini-portifolio-five.vercel.app/</li>
 </ul>
 
  ## 📱 Redes Sociais:
