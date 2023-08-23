@@ -20,14 +20,14 @@ body {
 }
 
 .container {
-    margin: 10%;
+    margin: 15%;
     display: flex;
     align-items: center;
     justify-content: space-between;
 }
 
 .container-section {
-    width: 80%; /* Exemplo de largura em porcentagem */
+    width: 100%; /* Exemplo de largura em porcentagem */
     max-width: 615px;
     display: flex;
     flex-direction: column;
@@ -92,35 +92,14 @@ body {
     display: none;
 }
 
+.border {
+    border: 15px solid #22D4FD;
+    border-radius: 10%;
+    max-width: 490px;
+    max-height: 550px;
+}
 
-/* Media query para telas menores */
-@media  screen and (max-width: 1366px) {
-
-    .container {
-        flex-direction: column;
-        align-items: center;
-    }
-
-    .container-section {
-        text-align: center;
-        max-width: 100%;
-    }
-
-    .title-container {
-        font-size: 28px;
-    }
-
-    .p-container {
-        font-size: 18px;
-    }
-
-    .button-links {
-        flex-direction: column;
-        align-items: center;
-    }
-
-    .links {
-        width: 140px;
-        font-size: 0.9rem;
-    }
+.gato {
+    border-radius: 5%;
+    width: 100%;
 }
