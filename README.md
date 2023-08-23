@@ -16,7 +16,7 @@
 
 <h2>Domínio para Acesso:</h2>
 <ul>
-<li> (https://mini-portifolio-five.vercel.app/</li>
+<li> https://mini-portifolio-five.vercel.app/</li>
 </ul>
 
  ## 📱 Redes Sociais:
