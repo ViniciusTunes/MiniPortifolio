@@ -1,19 +1,24 @@
-## Mini Portifolio | HTML
+## Website MiniPortifolio | JavaScript | Back-end |
 
 
-<p><em>Este repositório contém o código-fonte para resolver o desafio de criar um aplicativo CRUD usando JDBC e Swing. O objetivo do desafio é desenvolver um aplicativo que permita realizar operações CRUD em um banco de dados relacional.</em></p>
+<p><em>Este repositório contém o código-fonte de um website que seria um pequeno portifólio.</em></p>
 
-<h2>:desktop: Tecnologias Utilizadas:</h2>
+<h2>🖥️ Tecnologias Utilizadas:</h2>
   <ul>
-      <li>Java</li>
-      <li>IntelliJ IDEA </li>
-      <li>MySQL</li>
-      <li>Biblioteca JCalener</li>
-      <li>Pluigin WindowBuilder</li>
+      <li>JavaScript</li>
+      <li>Visual Studio Code</li>
+      <li>Css</li>
+      <li>Html</li>
    </ul>
 
- ## :mobile_phone: Redes Sociais:
-* Meu [LinkedIn](https://www.linkedin.com/in/thalison-moreira)
-* Meu [GitHub](https://github.com/thalisonsilva)
-* Meu [Instagram](https://www.instagram.com/devthalis/)
-* Nosso [Discord](a)
+
+![Screen](https://cdn.discordapp.com/attachments/1129425322685767680/1143194336775905431/image.png)
+
+<h2>Domínio para Acesso:</h2>
+<ul>
+<li> https://jogo-do-numero-secreto-delta.vercel.app/</li>
+</ul>
+
+ ## 📱 Redes Sociais:
+* Meu [GitHub](https://github.com/ViniciusTunes)
+* Meu [Instagram](https://www.instagram.com/yng.Vinicius/)
