@@ -10,9 +10,7 @@
 }
 
 body {
-    height: 100vh;
     background-color: black;
-    box-sizing: border-box;
     color: #F6F6F6;
 }
 
@@ -29,11 +27,13 @@ body {
 }
 
 .container-section {
-    width: 615px;
+    width: 80%; /* Exemplo de largura em porcentagem */
+    max-width: 615px;
     display: flex;
     flex-direction: column;
-    gap: 40px;
+    gap: 40px; /* Exemplo de espaço entre elementos em porcentagem */
 }
+
 
 .title-container {
     font-size: 36px;
@@ -49,6 +49,7 @@ body {
 .button-links {
     display: flex;
     justify-content: space-between;
+    margin-left: 20px;
 }
 
 .links {
@@ -62,6 +63,7 @@ body {
     color: black;
     font-family: Montserrat;
     font-weight: 600;
+    margin-right: 20px;
 }
 
 .links:hover {
@@ -88,4 +90,37 @@ body {
 
 ::-webkit-scrollbar-button {
     display: none;
+}
+
+
+/* Media query para telas menores */
+@media  screen and (max-width: 1366px) {
+
+    .container {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .container-section {
+        text-align: center;
+        max-width: 100%;
+    }
+
+    .title-container {
+        font-size: 28px;
+    }
+
+    .p-container {
+        font-size: 18px;
+    }
+
+    .button-links {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .links {
+        width: 140px;
+        font-size: 0.9rem;
+    }
 }
