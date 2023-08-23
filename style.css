@@ -1,0 +1,90 @@
+@import url('https://fonts.googleapis.com/css2?family=Catamaran:wght@600&family=Krona+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+
+* {
+    scroll-behavior: smooth;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: black;
+    color: #F6F6F6;
+}
+
+.featured-title {
+    color: #22D4FD;
+    padding: 10px;
+}
+
+.container {
+    height: 100vh;
+    padding: 0 10%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.container-section {
+    width: 615px;
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+}
+
+.title-container {
+    font-size: 36px;
+    font-family: Krona One;
+}
+
+.p-container {
+    font-size: 24px;
+    font-family: Montserrat;
+}
+
+/* Botões */
+.button-links {
+    display: flex;
+    justify-content: space-between;
+}
+
+.links {
+    background-color: #22D4FD;
+    width: 280px;
+    text-align: center;
+    border-radius: 16px;
+    font-size: 24px;
+    padding: 21px 0px;
+    text-decoration: none;
+    color: black;
+    font-family: Montserrat;
+    font-weight: 600;
+}
+
+.links:hover {
+    background-color: #113ca1;
+}
+
+/* Estilos da barra de rolagem */
+::-webkit-scrollbar {
+    width: 10px;
+}
+
+::-webkit-scrollbar-track {
+    background-color: #000;
+}
+
+::-webkit-scrollbar-thumb {
+    background-color: #22D4FD;
+    border-radius: 5px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background-color: #1B9AC8;
+}
+
+::-webkit-scrollbar-button {
+    display: none;
+}
